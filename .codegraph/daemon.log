@@ -1,0 +1,104 @@
+[2026-09-10T03:58:08.640Z] [CodeGraph daemon] Listening on \\.\pipe\codegraph-ba146f0136c6e5ba (pid 10364, v1.6.0). Idle timeout 300000ms.
+[2026-09-10T03:58:08.980Z] [CodeGraph MCP] File watcher active — graph will auto-sync on changes
+[2026-09-10T03:58:08.984Z] [CodeGraph MCP] Query pool: up to 15 worker thread(s) for concurrent reads.
+[2026-09-10T04:03:47.444Z] [CodeGraph MCP] Auto-synced 1 file(s) in 674ms
+[2026-09-10T04:03:50.042Z] [CodeGraph MCP] Auto-synced 1 file(s) in 17ms
+[2026-09-10T04:03:50.512Z] [CodeGraph MCP] Auto-synced 1 file(s) in 20ms
+[2026-09-10T04:04:03.011Z] [CodeGraph MCP] Auto-synced 1 file(s) in 68ms
+[2026-09-10T04:04:37.380Z] [CodeGraph MCP] Auto-synced 1 file(s) in 44ms
+[2026-09-10T04:05:01.552Z] [CodeGraph MCP] Auto-synced 1 file(s) in 49ms
+[2026-09-10T04:05:03.750Z] [CodeGraph MCP] Auto-synced 1 file(s) in 52ms
+[2026-09-10T04:05:04.295Z] [CodeGraph MCP] Auto-synced 1 file(s) in 44ms
+[2026-09-10T04:14:25.032Z] [CodeGraph MCP] Auto-synced 1 file(s) in 79ms
+[2026-09-10T04:14:25.509Z] [CodeGraph MCP] Auto-synced 1 file(s) in 19ms
+[2026-09-10T04:14:26.080Z] [CodeGraph MCP] Auto-synced 1 file(s) in 51ms
+[2026-09-10T04:26:28.555Z] [CodeGraph daemon] Shutting down (idle timeout; clients=0).
+[2026-09-10T07:28:00.211Z] [CodeGraph daemon] Listening on \\.\pipe\codegraph-ba146f0136c6e5ba (pid 16336, v1.6.0). Idle timeout 300000ms.
+[2026-09-10T07:28:00.651Z] [CodeGraph MCP] File watcher active — graph will auto-sync on changes
+[2026-09-10T07:28:00.655Z] [CodeGraph MCP] Query pool: up to 15 worker thread(s) for concurrent reads.
+[2026-09-10T07:35:42.224Z] [CodeGraph daemon] Shutting down (idle timeout; clients=0).
+[2026-09-10T14:58:29.244Z] [CodeGraph daemon] Listening on \\.\pipe\codegraph-ba146f0136c6e5ba (pid 31244, v1.6.0). Idle timeout 300000ms.
+[2026-09-10T14:58:29.521Z] [CodeGraph MCP] File watcher active — graph will auto-sync on changes
+[2026-09-10T14:58:29.525Z] [CodeGraph MCP] Query pool: up to 15 worker thread(s) for concurrent reads.
+[2026-09-10T16:04:39.456Z] [CodeGraph MCP] Auto-synced 1 file(s) in 649ms
+[2026-09-10T16:04:39.956Z] [CodeGraph MCP] Auto-synced 1 file(s) in 27ms
+[2026-09-10T16:04:42.501Z] [CodeGraph MCP] Auto-synced 1 file(s) in 237ms
+[2026-09-10T16:04:52.874Z] [CodeGraph MCP] Auto-synced 1 file(s) in 116ms
+[2026-09-10T16:05:04.423Z] [CodeGraph MCP] Auto-synced 1 file(s) in 44ms
+[2026-09-10T16:05:05.055Z] [CodeGraph MCP] Auto-synced 1 file(s) in 99ms
+[2026-09-10T16:05:15.082Z] [CodeGraph MCP] Auto-synced 1 file(s) in 44ms
+[2026-09-10T16:05:15.633Z] [CodeGraph MCP] Auto-synced 1 file(s) in 43ms
+[2026-09-10T16:05:40.406Z] [CodeGraph MCP] Auto-synced 1 file(s) in 18ms
+[2026-09-10T16:05:42.586Z] [CodeGraph MCP] Auto-synced 1 file(s) in 54ms
+[2026-09-10T16:05:44.081Z] [CodeGraph MCP] Auto-synced 1 file(s) in 49ms
+[2026-09-10T16:05:44.701Z] [CodeGraph MCP] Auto-synced 1 file(s) in 47ms
+[2026-09-10T16:25:51.505Z] [CodeGraph MCP] Auto-synced 2 file(s) in 84ms
+[2026-09-10T19:28:00.378Z] [CodeGraph daemon] Shutting down (idle timeout; clients=0).
+[2026-09-11T15:51:44.957Z] [CodeGraph daemon] Listening on \\.\pipe\codegraph-ba146f0136c6e5ba (pid 3224, v1.6.0). Idle timeout 300000ms.
+[2026-09-11T15:51:45.205Z] [CodeGraph MCP] File watcher active — graph will auto-sync on changes
+[2026-09-11T15:51:45.207Z] [CodeGraph MCP] Query pool: up to 15 worker thread(s) for concurrent reads.
+[2026-09-11T16:02:17.702Z] [CodeGraph MCP] Auto-synced 1 file(s) in 938ms
+[2026-09-11T16:02:18.283Z] [CodeGraph MCP] Auto-synced 1 file(s) in 47ms
+[2026-09-11T16:02:36.635Z] [CodeGraph MCP] Auto-synced 1 file(s) in 64ms
+[2026-09-11T16:49:56.108Z] [CodeGraph MCP] Auto-synced 4 file(s) in 380ms
+[2026-09-11T16:55:35.602Z] [CodeGraph MCP] Auto-synced 1 file(s) in 21ms
+[2026-09-11T16:55:36.192Z] [CodeGraph MCP] Auto-synced 1 file(s) in 50ms
+[2026-09-11T16:56:08.355Z] [CodeGraph MCP] Auto-synced 1 file(s) in 60ms
+[2026-09-11T16:56:25.234Z] [CodeGraph MCP] Auto-synced 1 file(s) in 40ms
+[2026-09-11T16:56:55.822Z] [CodeGraph MCP] Auto-synced 1 file(s) in 48ms
+[2026-09-11T17:24:42.289Z] [CodeGraph MCP] Auto-synced 1 file(s) in 21ms
+[2026-09-11T17:24:45.230Z] [CodeGraph MCP] Auto-synced 1 file(s) in 52ms
+[2026-09-11T17:25:14.129Z] [CodeGraph MCP] Auto-synced 1 file(s) in 37ms
+[2026-09-11T17:25:14.699Z] [CodeGraph MCP] Auto-synced 1 file(s) in 50ms
+[2026-09-11T17:51:40.258Z] [CodeGraph MCP] Auto-synced 1 file(s) in 40ms
+[2026-09-11T18:11:04.615Z] [CodeGraph MCP] Auto-synced 1 file(s) in 268ms
+[2026-09-11T18:11:08.900Z] [CodeGraph MCP] Auto-synced 2 file(s) in 68ms
+[2026-09-11T18:11:24.569Z] [CodeGraph MCP] Auto-synced 2 file(s) in 47ms
+[2026-09-11T18:46:06.258Z] [CodeGraph MCP] Auto-synced 2 file(s) in 31ms
+[2026-09-11T18:46:15.253Z] [CodeGraph MCP] Auto-synced 1 file(s) in 19ms
+[2026-09-11T18:46:17.654Z] [CodeGraph MCP] Auto-synced 1 file(s) in 22ms
+[2026-09-11T18:46:18.152Z] [CodeGraph MCP] Auto-synced 1 file(s) in 13ms
+[2026-09-11T18:46:26.657Z] [CodeGraph MCP] Auto-synced 1 file(s) in 32ms
+[2026-09-11T18:46:37.938Z] [CodeGraph MCP] Auto-synced 1 file(s) in 36ms
+[2026-09-11T18:46:54.318Z] [CodeGraph MCP] Auto-synced 1 file(s) in 17ms
+[2026-09-11T18:47:05.721Z] [CodeGraph MCP] Auto-synced 1 file(s) in 38ms
+[2026-09-11T18:49:23.681Z] [CodeGraph MCP] Auto-synced 1 file(s) in 36ms
+[2026-09-11T18:49:24.387Z] [CodeGraph MCP] Auto-synced 1 file(s) in 37ms
+[2026-09-11T18:49:30.374Z] [CodeGraph MCP] Auto-synced 1 file(s) in 42ms
+[2026-09-11T18:49:43.417Z] [CodeGraph MCP] Auto-synced 2 file(s) in 252ms
+[2026-09-11T18:50:10.627Z] [CodeGraph MCP] Auto-synced 1 file(s) in 7ms
+[2026-09-11T18:50:38.999Z] [CodeGraph MCP] Auto-synced 1 file(s) in 6ms
+[2026-09-11T18:50:55.396Z] [CodeGraph MCP] Auto-synced 1 file(s) in 22ms
+[2026-09-11T18:53:33.838Z] [CodeGraph MCP] Auto-synced 2 file(s) in 250ms
+[2026-09-11T18:59:08.753Z] [CodeGraph MCP] Auto-synced 1 file(s) in 13ms
+[2026-09-11T19:13:24.567Z] [CodeGraph MCP] Auto-synced 1 file(s) in 5ms
+[2026-09-11T19:24:15.472Z] [CodeGraph MCP] Auto-synced 1 file(s) in 22ms
+[2026-09-11T19:24:16.570Z] [CodeGraph MCP] Auto-synced 1 file(s) in 39ms
+[2026-09-11T19:24:19.000Z] [CodeGraph MCP] Auto-synced 1 file(s) in 315ms
+[2026-09-11T19:24:19.655Z] [CodeGraph MCP] Auto-synced 1 file(s) in 52ms
+[2026-09-11T19:24:29.163Z] [CodeGraph MCP] Auto-synced 1 file(s) in 41ms
+[2026-09-11T19:24:32.996Z] [CodeGraph MCP] Auto-synced 1 file(s) in 37ms
+[2026-09-11T19:25:27.725Z] [CodeGraph MCP] Auto-synced 1 file(s) in 25ms
+[2026-09-11T19:25:30.267Z] [CodeGraph MCP] Auto-synced 1 file(s) in 33ms
+[2026-09-11T19:25:35.550Z] [CodeGraph MCP] Auto-synced 1 file(s) in 18ms
+[2026-09-11T19:25:36.108Z] [CodeGraph MCP] Auto-synced 1 file(s) in 41ms
+[2026-09-11T19:25:41.502Z] [CodeGraph MCP] Auto-synced 1 file(s) in 63ms
+[2026-09-11T19:38:45.979Z] [CodeGraph MCP] Auto-synced 1 file(s) in 18ms
+[2026-09-11T19:38:53.472Z] [CodeGraph MCP] Auto-synced 1 file(s) in 23ms
+[2026-09-11T19:39:03.558Z] [CodeGraph MCP] Auto-synced 1 file(s) in 39ms
+[2026-09-11T19:39:04.463Z] [CodeGraph MCP] Auto-synced 1 file(s) in 36ms
+[2026-09-11T19:45:57.228Z] [CodeGraph MCP] Auto-synced 5 file(s) in 100ms
+[2026-09-11T20:01:59.996Z] [CodeGraph MCP] Auto-synced 1 file(s) in 12ms
+[2026-09-11T20:02:07.962Z] [CodeGraph MCP] Auto-synced 1 file(s) in 35ms
+[2026-09-11T20:02:13.226Z] [CodeGraph MCP] Auto-synced 1 file(s) in 37ms
+[2026-09-11T20:02:33.346Z] [CodeGraph MCP] Auto-synced 1 file(s) in 37ms
+[2026-09-11T20:14:20.964Z] [CodeGraph MCP] Auto-synced 1 file(s) in 19ms
+[2026-09-11T20:14:33.050Z] [CodeGraph MCP] Auto-synced 1 file(s) in 36ms
+[2026-09-11T20:14:35.297Z] [CodeGraph MCP] Auto-synced 1 file(s) in 43ms
+[2026-09-11T20:14:48.035Z] [CodeGraph MCP] Auto-synced 1 file(s) in 42ms
+[2026-09-12T04:12:16.541Z] [CodeGraph MCP] Auto-synced 2 file(s) in 245ms
+[2026-09-12T04:12:19.015Z] [CodeGraph MCP] Auto-synced 1 file(s) in 22ms
+[2026-09-12T04:12:49.148Z] [CodeGraph MCP] Auto-synced 8 file(s) in 391ms
+[2026-09-12T04:13:01.556Z] [CodeGraph MCP] Auto-synced 1 file(s) in 230ms
+[2026-09-12T04:15:31.196Z] [CodeGraph MCP] Auto-synced 1 file(s) in 26ms
+[2026-09-12T04:18:18.074Z] [CodeGraph daemon] Shutting down (idle timeout; clients=0).
