@@ -69,6 +69,7 @@
     - rightKey 右方向的按键控制
     - upKey 上方向的按键控制
     - downKey 下方向的按键控制
+    - sprintKey 可选，奔跑按键，例如 `"sprintKey": "Key_Shift"`。按下后在当前方向基础上额外向上推动轮盘，可与其他方向键同时使用
     - leftOffset 按下左方向键后模拟拖动到相对centerPos位置水平偏左leftOffset处
     - rightOffset 按下右方向键后模拟拖动到相对centerPos位置水平偏右rightOffset处
     - upOffset 按下上方向键后模拟拖动到相对centerPos位置水平偏上upOffset处

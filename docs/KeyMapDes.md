@@ -69,6 +69,7 @@ Description of the unique attributes of different key mapping types:
     -rightKey Right key control
     -UpKey key control
     -downKey key control in down direction
+    -sprintKey Optional sprint key, for example `"sprintKey": "Key_Shift"`. Pressing it adds an upward push to the current steering-wheel direction and can be combined with other direction keys
     -leftOffset After dragging the left arrow key, drag to the leftOffset horizontally to the centerPos
     -rightOffset After pressing the right direction key, drag it to the right offset of the center to the right of the centerPos position
     -upOffset After pressing the up arrow key, drag it to the upper offset position horizontally relative to the centerPos position
